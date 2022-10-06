@@ -1,0 +1,12 @@
+ {
+    "configurations": [
+        {
+            "type": "ruby-debug",
+            "request": "launch",
+            "name": "Debug local file",
+            "program": "${file}",
+            "programArgs": [],
+            "useBundler": true
+        },
+    ]
+}

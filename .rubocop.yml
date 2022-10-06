@@ -1,0 +1,12 @@
+AllCops:
+  NewCops: enable
+  Exclude: 
+    - './Gemfile'
+    - 'bin/*'
+Style/Documentation:
+  Enabled: false
+
+Layout/EmptyLinesAroundClassBody:
+  Enabled: false
+Layout/TrailingWhitespace:
+  Enabled: false
